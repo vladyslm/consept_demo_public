@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62c343ecfd68e449b1967c04abaeb0f, type: 3}
+  m_Name: Element 1 Ground
+  m_EditorClassIdentifier: 
+  DeveloperDescription: 
+  Buildable: {fileID: 1464491233363233770, guid: 78ae8ae2fbad562448b756e45f2107f5,
+    type: 3}
+  Blueprintable: {fileID: 3597129342763284694, guid: 3286f37947fcc7945bfa8675721c60c6,
+    type: 3}
+  BuildType: {fileID: 11400000, guid: 248b4f0fa4d884d4db2177d5136eb63b, type: 2}
